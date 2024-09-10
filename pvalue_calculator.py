@@ -1,3 +1,9 @@
+# t_stat, z_score are the results of test statistis, the former for t-tests (data with unknown standard deviation) 
+# and the latter is for z-tests (data with known standard deviations)
+
+# df is the degrees of freedoms for t-tests
+# dp is the number of decimal places you want your pvalue to have
+
 from scipy import stats
 
 # 1. Two-Sided t-Test
