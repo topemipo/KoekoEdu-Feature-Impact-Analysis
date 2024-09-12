@@ -18,13 +18,13 @@ However, if you don't have the time to take an entire course, these are the SQL 
 | Commands/Concepts  |Resources   | Commands/Concepts        |  Resources | 
 |:-------------------|----------------------|:-------------------------|------------|    
 |SELECT/FROM |[article](https://www.w3schools.com/sql/sql_select.asp), [video](https://www.youtube.com/watch?v=YfTDBA45PHk)  |Aggregate Functions|[article](https://www.w3schools.com/sql/sql_aggregate_functions.asp), [video](https://www.youtube.com/watch?v=muwEdPsx534)|   
-|AS                  |[article](https://www.w3schools.com/sql/sql_ref_as.asp),[video](https://www.youtube.com/watch?v=Lvh3Bd2yVFc) |GROUP BY              |[article](),[video]()                |
-|CASE Expression     |[article](https://www.w3schools.com/sql/sql_case.asp),[video](https://www.youtube.com/watch?v=YoXAPtZOMZk)  |ROUND    |[article](),[video]()                | 
-|IF function         |[article](https://www.w3schools.com/sql/func_mysql_if.asp),[video]()               |BETWEEN                   |[article](),[video]()            |
-|IS NULL             |[article](),[video]()                |WHERE Clause              |[article](),[video]()            | 
-|DATE_ADD            |[article](https://www.w3schools.com/mysql/func_mysql_date_add.asp),[video](https://www.youtube.com/shorts/1zEHiUDTR0Y)                |JOINS - INNER, LEFT &CROSS|[article](),[video]()            | 
-|Subqueries          |[article](),[video]()                |WITH Clause               |[article](),[video]()            | 
-|Creating VIEWS      |[article](),[video]()                |HAVING                    |[article](),[video]()            | 
+|AS|[article](https://www.w3schools.com/sql/sql_ref_as.asp),[video](https://www.youtube.com/watch?v=Lvh3Bd2yVFc) |GROUP BY|[article](https://www.programiz.com/sql/group-by),[video](https://www.youtube.com/watch?v=FztbYXeOEQ4)                |
+|CASE Expression     |[article](https://www.w3schools.com/sql/sql_case.asp),[video](https://www.youtube.com/watch?v=YoXAPtZOMZk)  |ROUND    |[article](https://www.datacamp.com/tutorial/mastering-sql-round),[video](https://www.youtube.com/watch?v=Di72Hc3ZfKw)                | 
+|IF function         |[article](https://www.w3schools.com/sql/func_mysql_if.asp),[video](https://www.youtube.com/watch?v=vR7JY90VCzs)               |BETWEEN                   |[article](https://www.w3schools.com/mysql/mysql_between.asp),[video](https://www.youtube.com/watch?v=DN0ni3HU6Mg)            |
+|IS NULL             |[article](https://www.w3schools.com/sql/sql_ref_is_null.asp),[video](https://www.youtube.com/watch?v=8cI-QcaaKis)                |WHERE Clause              |[article](https://www.tutorialspoint.com/sql/sql-where-clause.htm),[video](https://www.youtube.com/watch?v=4Uv0o8IBqw0)            | 
+|DATE_ADD            |[article](https://www.w3schools.com/mysql/func_mysql_date_add.asp),[video](https://www.youtube.com/shorts/1zEHiUDTR0Y)                |JOINS - INNER, LEFT &CROSS|[article](https://www.datacamp.com/cheat-sheet/sql-joins-cheat-sheet),[video](https://www.youtube.com/watch?v=lXQzD09BOH0)            | 
+|Subqueries          |[article](https://mode.com/sql-tutorial/sql-sub-queries),[video](https://www.youtube.com/watch?v=i5acg3Hvu6g&t=160s)                |WITH Clause               |[article](https://learnsql.com/blog/what-is-with-clause-sql/),[video](https://www.youtube.com/watch?v=QNfnuK-1YYY)            | 
+|Creating VIEWS      |[article](https://blog.devart.com/how-to-create-a-view-in-mysql.html),[video](https://www.youtube.com/watch?v=wciubfRhvtM)                |HAVING                    |[article](https://www.w3schools.com/SQL/sql_having.asp),[video](https://www.youtube.com/watch?v=tYBOMw7Ob8E)            | 
 
 
 ### Data Preprocessing - Python
