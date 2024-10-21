@@ -1,4 +1,4 @@
-Beginner's Gudie - KoekoEdu Feature Impact Analysis
+Beginner's Guide - KoekoEdu Feature Impact Analysis
 ================
 
 ### Getting Started - SQL
